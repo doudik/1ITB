@@ -1,0 +1,15 @@
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\bin\Debug\net6.0\projekt_1ITBs2.exe
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\bin\Debug\net6.0\projekt_1ITBs2.deps.json
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\bin\Debug\net6.0\projekt_1ITBs2.runtimeconfig.json
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\bin\Debug\net6.0\projekt_1ITBs2.dll
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\bin\Debug\net6.0\ref\projekt_1ITBs2.dll
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\bin\Debug\net6.0\projekt_1ITBs2.pdb
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\obj\Debug\net6.0\projekt_1ITBs2.csproj.AssemblyReference.cache
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\obj\Debug\net6.0\projekt_1ITBs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\obj\Debug\net6.0\projekt_1ITBs2.AssemblyInfoInputs.cache
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\obj\Debug\net6.0\projekt_1ITBs2.AssemblyInfo.cs
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\obj\Debug\net6.0\projekt_1ITBs2.csproj.CoreCompileInputs.cache
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\obj\Debug\net6.0\projekt_1ITBs2.dll
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\obj\Debug\net6.0\ref\projekt_1ITBs2.dll
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\obj\Debug\net6.0\projekt_1ITBs2.pdb
+C:\Users\miram\source\repos\projekt_1ITBs2\projekt_1ITBs2\obj\Debug\net6.0\projekt_1ITBs2.genruntimeconfig.cache
