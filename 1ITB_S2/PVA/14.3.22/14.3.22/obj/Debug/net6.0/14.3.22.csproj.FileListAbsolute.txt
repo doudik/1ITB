@@ -1,0 +1,15 @@
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\obj\Debug\net6.0\14.3.22.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\obj\Debug\net6.0\14.3.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\obj\Debug\net6.0\14.3.22.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\obj\Debug\net6.0\14.3.22.AssemblyInfo.cs
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\obj\Debug\net6.0\14.3.22.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\bin\Debug\net6.0\14.3.22.exe
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\bin\Debug\net6.0\14.3.22.deps.json
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\bin\Debug\net6.0\14.3.22.runtimeconfig.json
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\bin\Debug\net6.0\14.3.22.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\bin\Debug\net6.0\ref\14.3.22.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\bin\Debug\net6.0\14.3.22.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\obj\Debug\net6.0\14.3.22.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\obj\Debug\net6.0\ref\14.3.22.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\obj\Debug\net6.0\14.3.22.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB_S2\PVA\14.3.22\14.3.22\obj\Debug\net6.0\14.3.22.genruntimeconfig.cache

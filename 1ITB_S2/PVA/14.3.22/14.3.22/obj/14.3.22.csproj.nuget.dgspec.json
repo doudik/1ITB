@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miram\\OneDrive\\1ITB\\1ITB\\1ITB_S2\\PVA\\14.3.22\\14.3.22\\14.3.22.csproj": {}
+    "C:\\Users\\miram\\OneDrive\\1ITB\\1ITB_S2\\PVA\\14.3.22\\14.3.22\\14.3.22.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miram\\OneDrive\\1ITB\\1ITB\\1ITB_S2\\PVA\\14.3.22\\14.3.22\\14.3.22.csproj": {
+    "C:\\Users\\miram\\OneDrive\\1ITB\\1ITB_S2\\PVA\\14.3.22\\14.3.22\\14.3.22.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miram\\OneDrive\\1ITB\\1ITB\\1ITB_S2\\PVA\\14.3.22\\14.3.22\\14.3.22.csproj",
+        "projectUniqueName": "C:\\Users\\miram\\OneDrive\\1ITB\\1ITB_S2\\PVA\\14.3.22\\14.3.22\\14.3.22.csproj",
         "projectName": "14.3.22",
-        "projectPath": "C:\\Users\\miram\\OneDrive\\1ITB\\1ITB\\1ITB_S2\\PVA\\14.3.22\\14.3.22\\14.3.22.csproj",
+        "projectPath": "C:\\Users\\miram\\OneDrive\\1ITB\\1ITB_S2\\PVA\\14.3.22\\14.3.22\\14.3.22.csproj",
         "packagesPath": "C:\\Users\\miram\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miram\\OneDrive\\1ITB\\1ITB\\1ITB_S2\\PVA\\14.3.22\\14.3.22\\obj\\",
+        "outputPath": "C:\\Users\\miram\\OneDrive\\1ITB\\1ITB_S2\\PVA\\14.3.22\\14.3.22\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\miram\\AppData\\Roaming\\NuGet\\NuGet.Config",
