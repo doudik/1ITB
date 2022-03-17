@@ -1,0 +1,15 @@
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\bin\Debug\net6.0\1ITB_S1.exe
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\bin\Debug\net6.0\1ITB_S1.deps.json
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\bin\Debug\net6.0\1ITB_S1.runtimeconfig.json
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\bin\Debug\net6.0\1ITB_S1.dll
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\bin\Debug\net6.0\ref\1ITB_S1.dll
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\bin\Debug\net6.0\1ITB_S1.pdb
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\obj\Debug\net6.0\1ITB_S1.csproj.AssemblyReference.cache
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\obj\Debug\net6.0\1ITB_S1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\obj\Debug\net6.0\1ITB_S1.AssemblyInfoInputs.cache
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\obj\Debug\net6.0\1ITB_S1.AssemblyInfo.cs
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\obj\Debug\net6.0\1ITB_S1.csproj.CoreCompileInputs.cache
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\obj\Debug\net6.0\1ITB_S1.dll
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\obj\Debug\net6.0\ref\1ITB_S1.dll
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\obj\Debug\net6.0\1ITB_S1.pdb
+C:\Users\miram\source\repos\1ITB_S1\1ITB_S1\obj\Debug\net6.0\1ITB_S1.genruntimeconfig.cache
