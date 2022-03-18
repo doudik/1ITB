@@ -1,0 +1,15 @@
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\bin\Debug\net6.0\test_projekt_1ITB_mixer.exe
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\bin\Debug\net6.0\test_projekt_1ITB_mixer.deps.json
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\bin\Debug\net6.0\test_projekt_1ITB_mixer.runtimeconfig.json
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\bin\Debug\net6.0\test_projekt_1ITB_mixer.dll
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\bin\Debug\net6.0\ref\test_projekt_1ITB_mixer.dll
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\bin\Debug\net6.0\test_projekt_1ITB_mixer.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\obj\Debug\net6.0\test_projekt_1ITB_mixer.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\obj\Debug\net6.0\test_projekt_1ITB_mixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\obj\Debug\net6.0\test_projekt_1ITB_mixer.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\obj\Debug\net6.0\test_projekt_1ITB_mixer.AssemblyInfo.cs
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\obj\Debug\net6.0\test_projekt_1ITB_mixer.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\obj\Debug\net6.0\test_projekt_1ITB_mixer.dll
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\obj\Debug\net6.0\ref\test_projekt_1ITB_mixer.dll
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\obj\Debug\net6.0\test_projekt_1ITB_mixer.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\test_projekt_1ITB_mixer\test_projekt_1ITB_mixer\obj\Debug\net6.0\test_projekt_1ITB_mixer.genruntimeconfig.cache

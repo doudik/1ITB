@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "test_projekt_1ITB_mixer/1.0.0": {
+        "runtime": {
+          "test_projekt_1ITB_mixer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test_projekt_1ITB_mixer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
