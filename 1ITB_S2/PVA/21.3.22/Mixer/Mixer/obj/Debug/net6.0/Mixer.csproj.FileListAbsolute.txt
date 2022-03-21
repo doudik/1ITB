@@ -1,0 +1,15 @@
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\bin\Debug\net6.0\Mixer.exe
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\bin\Debug\net6.0\Mixer.deps.json
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\bin\Debug\net6.0\Mixer.runtimeconfig.json
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\bin\Debug\net6.0\Mixer.dll
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\bin\Debug\net6.0\ref\Mixer.dll
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\bin\Debug\net6.0\Mixer.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\obj\Debug\net6.0\Mixer.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\obj\Debug\net6.0\Mixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\obj\Debug\net6.0\Mixer.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\obj\Debug\net6.0\Mixer.AssemblyInfo.cs
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\obj\Debug\net6.0\Mixer.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\obj\Debug\net6.0\Mixer.dll
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\obj\Debug\net6.0\ref\Mixer.dll
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\obj\Debug\net6.0\Mixer.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB\1ITB_S2\PVA\21.3.22\Mixer\Mixer\obj\Debug\net6.0\Mixer.genruntimeconfig.cache
