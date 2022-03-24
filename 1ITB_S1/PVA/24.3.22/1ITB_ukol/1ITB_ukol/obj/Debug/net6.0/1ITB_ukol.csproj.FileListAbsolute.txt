@@ -1,0 +1,15 @@
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\bin\Debug\net6.0\1ITB_ukol.exe
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\bin\Debug\net6.0\1ITB_ukol.deps.json
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\bin\Debug\net6.0\1ITB_ukol.runtimeconfig.json
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\bin\Debug\net6.0\1ITB_ukol.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\bin\Debug\net6.0\ref\1ITB_ukol.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\bin\Debug\net6.0\1ITB_ukol.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\obj\Debug\net6.0\1ITB_ukol.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\obj\Debug\net6.0\1ITB_ukol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\obj\Debug\net6.0\1ITB_ukol.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\obj\Debug\net6.0\1ITB_ukol.AssemblyInfo.cs
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\obj\Debug\net6.0\1ITB_ukol.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\obj\Debug\net6.0\1ITB_ukol.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\obj\Debug\net6.0\ref\1ITB_ukol.dll
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\obj\Debug\net6.0\1ITB_ukol.pdb
+C:\Users\miram\OneDrive\1ITC\1ITC\21.3.2022 - mixer\1ITB_ukol\1ITB_ukol\obj\Debug\net6.0\1ITB_ukol.genruntimeconfig.cache
