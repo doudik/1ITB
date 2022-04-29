@@ -1,0 +1,15 @@
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\bin\Debug\net6.0\Interface.exe
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\bin\Debug\net6.0\Interface.deps.json
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\bin\Debug\net6.0\Interface.runtimeconfig.json
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\bin\Debug\net6.0\Interface.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\bin\Debug\net6.0\ref\Interface.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\bin\Debug\net6.0\Interface.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\obj\Debug\net6.0\Interface.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\obj\Debug\net6.0\ref\Interface.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\obj\Debug\net6.0\Interface.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\29.4.22\Interface\Interface\obj\Debug\net6.0\Interface.genruntimeconfig.cache
