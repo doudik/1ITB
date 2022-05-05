@@ -1,0 +1,15 @@
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\obj\Debug\net6.0\Pivovar.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\obj\Debug\net6.0\Pivovar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\obj\Debug\net6.0\Pivovar.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\obj\Debug\net6.0\Pivovar.AssemblyInfo.cs
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\obj\Debug\net6.0\Pivovar.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\bin\Debug\net6.0\Pivovar.exe
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\bin\Debug\net6.0\Pivovar.deps.json
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\bin\Debug\net6.0\Pivovar.runtimeconfig.json
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\bin\Debug\net6.0\Pivovar.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\bin\Debug\net6.0\ref\Pivovar.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\bin\Debug\net6.0\Pivovar.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\obj\Debug\net6.0\Pivovar.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\obj\Debug\net6.0\ref\Pivovar.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\obj\Debug\net6.0\Pivovar.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\5.5.22\Pivovar\Pivovar\obj\Debug\net6.0\Pivovar.genruntimeconfig.cache
