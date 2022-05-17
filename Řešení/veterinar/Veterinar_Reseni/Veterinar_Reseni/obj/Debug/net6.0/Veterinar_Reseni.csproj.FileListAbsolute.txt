@@ -1,0 +1,15 @@
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\bin\Debug\net6.0\Veterinar_Reseni.exe
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\bin\Debug\net6.0\Veterinar_Reseni.deps.json
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\bin\Debug\net6.0\Veterinar_Reseni.runtimeconfig.json
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\bin\Debug\net6.0\Veterinar_Reseni.dll
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\bin\Debug\net6.0\ref\Veterinar_Reseni.dll
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\bin\Debug\net6.0\Veterinar_Reseni.pdb
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\obj\Debug\net6.0\Veterinar_Reseni.csproj.AssemblyReference.cache
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\obj\Debug\net6.0\Veterinar_Reseni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\obj\Debug\net6.0\Veterinar_Reseni.AssemblyInfoInputs.cache
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\obj\Debug\net6.0\Veterinar_Reseni.AssemblyInfo.cs
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\obj\Debug\net6.0\Veterinar_Reseni.csproj.CoreCompileInputs.cache
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\obj\Debug\net6.0\Veterinar_Reseni.dll
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\obj\Debug\net6.0\ref\Veterinar_Reseni.dll
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\obj\Debug\net6.0\Veterinar_Reseni.pdb
+C:\Users\miram\Desktop\veterinar\Veterinar_Reseni\Veterinar_Reseni\obj\Debug\net6.0\Veterinar_Reseni.genruntimeconfig.cache
