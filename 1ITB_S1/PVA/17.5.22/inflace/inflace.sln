@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inflace", "inflace\inflace.csproj", "{78358D29-7219-4096-95A1-C44B2630948C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78358D29-7219-4096-95A1-C44B2630948C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78358D29-7219-4096-95A1-C44B2630948C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78358D29-7219-4096-95A1-C44B2630948C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78358D29-7219-4096-95A1-C44B2630948C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {608CA072-E1C6-4F18-8BA4-521F74403301}
+	EndGlobalSection
+EndGlobal

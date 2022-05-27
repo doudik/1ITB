@@ -1,0 +1,15 @@
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\bin\Debug\net6.0\Ukol_ALG.exe
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\bin\Debug\net6.0\Ukol_ALG.deps.json
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\bin\Debug\net6.0\Ukol_ALG.runtimeconfig.json
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\bin\Debug\net6.0\Ukol_ALG.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\bin\Debug\net6.0\ref\Ukol_ALG.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\bin\Debug\net6.0\Ukol_ALG.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\obj\Debug\net6.0\Ukol_ALG.csproj.AssemblyReference.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\obj\Debug\net6.0\Ukol_ALG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\obj\Debug\net6.0\Ukol_ALG.AssemblyInfoInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\obj\Debug\net6.0\Ukol_ALG.AssemblyInfo.cs
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\obj\Debug\net6.0\Ukol_ALG.csproj.CoreCompileInputs.cache
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\obj\Debug\net6.0\Ukol_ALG.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\obj\Debug\net6.0\ref\Ukol_ALG.dll
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\obj\Debug\net6.0\Ukol_ALG.pdb
+C:\Users\miram\OneDrive\1ITB\1ITB_S1\PVA\26.04.22\Ukol_ALG\Ukol_ALG\obj\Debug\net6.0\Ukol_ALG.genruntimeconfig.cache
